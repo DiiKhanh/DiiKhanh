@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DiiKhanh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DiiKhanh&theme=tokyonight&hide_border=false)<br/>
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIIKHANH&show_icons=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DiiKhanh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
