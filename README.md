@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I'm currently 2nd year student at UIT<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I'm currently 2nd year student at UIT<br>
+I'm learning HTML,CSS, JS and ReactJS
 
 
 ## 🌐 Socials:
