@@ -1,11 +1,11 @@
 # 💫 About Me: -> [My Portfolio](https://dk-portfolio-gamma.vercel.app/)
 Hello there,
 
-I'm Duy Khanh, a third-year student majoring in Information Systems at the University of Information Technology - Vietnam National University, HCMC. Passionate about technology and its applications, I'm on a journey to become a full-stack developer.
+I'm Duy Khanh, a 4th-year student majoring in Information Systems at the University of Information Technology - Vietnam National University, HCMC. Passionate about technology and its applications, I'm on a journey to become a full-stack developer.
 
 My proficiency in Frontend technologies includes HTML, CSS, and JavaScript, TypeScript along with hands-on experience in frameworks like ReactJs and NextJs. On the Backend side, I've built a strong foundation in Express and Spring Boot, enabling me to create robust server-side applications.
 
-Currently, I'm also diving into the world of Mobile development with a focus on Flutter. I'm excited about the potential of mobile applications and eager to add this skill to my repertoire.
+Currently, I'm also diving into the world of Mobile development with a focus on React Native. I'm excited about the potential of mobile applications and eager to add this skill to my repertoire.
 
 My ultimate goal is to bridge the gap between Frontend and Backend, becoming a proficient full-stack developer who can bring dynamic and comprehensive solutions to the table.
 
